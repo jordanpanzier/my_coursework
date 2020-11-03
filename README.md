@@ -1,4 +1,4 @@
-# Coursework
+# My Coursework
 
 **Northwestern University**  <br/>
 
