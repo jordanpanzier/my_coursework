@@ -15,6 +15,6 @@ Programming Languages  <br/>
 *Elective Courses*  <br/>
 AI for Hybrid, Participatory Narrative  <br/>
 
-**Barnard College** <br/>
+**Barnard College at Columbia University** <br/>
 Introduction to Computer Science in Java <br/>
 Data Structures <br/>
