@@ -16,5 +16,6 @@ Programming Languages  <br/>
 AI for Hybrid, Participatory Narrative  <br/>
 
 **Barnard College at Columbia University** <br/>
+
 Introduction to Computer Science in Java <br/>
 Data Structures <br/>
