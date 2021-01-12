@@ -11,6 +11,7 @@ Introduction to Computer Systems <br/>
 Introduction to Artificial Intelligence  <br/>
 Game Design & Development <br/>
 Programming Languages  <br/>
+Operating Systems <br/>
 
 *Elective Courses*  <br/>
 AI for Hybrid, Participatory Narrative  <br/>
