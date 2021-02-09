@@ -15,6 +15,7 @@ Operating Systems <br/>
 
 *Elective Courses*  <br/>
 AI for Hybrid, Participatory Narrative  <br/>
+HCI Studio  <br/>
 
 **Barnard College at Columbia University** <br/>
 
