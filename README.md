@@ -15,6 +15,8 @@ Operating Systems <br/>
 *Elective Courses*  <br/>
 AI for Hybrid, Participatory Narrative  <br/>
 HCI Studio  <br/>
+Generative Methods <br/>
+Introduction to Web Development <br/>
 
 **Barnard College at Columbia University** <br/>
 Introduction to Computer Science in Java <br/>
