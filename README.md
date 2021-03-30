@@ -20,6 +20,13 @@ Introduction to Web Development <br/>
 *Project Courses*  <br/>
 HCI Studio  <br/>
 
+*Math Courses*  <br/>
+Single-Variable Differential Calculus  <br/>
+Single-Variable Integral Calculus  <br/>
+Multivariable Differential Calculus <br/>
+Linear Algebra <br/>
+Introduction to Statistics <br/>
+
 **Barnard College at Columbia University** <br/>
 Introduction to Computer Science in Java <br/>
 Data Structures <br/>
