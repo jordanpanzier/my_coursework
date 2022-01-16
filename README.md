@@ -5,6 +5,7 @@
 Fundamentals of Programming I <br/>
 Fundamentals of Programming II <br/>
 Introduction to Computer Systems <br/>
+Mathematical Foundations of Computer Science <br/>
 
 *Breadth Courses*  <br/>
 Introduction to Artificial Intelligence  <br/>
